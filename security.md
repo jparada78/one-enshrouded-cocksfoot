@@ -188,6 +188,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Enshrouded · Updated 2026-11-23 · Shared under the MIT License*
+*Enshrouded · Updated 2026-11-24 · Shared under the MIT License*
 
-<!-- rev 2026-11-23 -->
+<!-- rev 2026-11-24 -->
